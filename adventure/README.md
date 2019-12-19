@@ -1,36 +1,15 @@
 # adventure
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+An adventure game for CS296 final project.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar adventure-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+Run in a device with clojure: 
+repl run
 
 ## License
 
-Copyright © 2019 FIXME
+Copyright © 2019 Haozhe Si, Jialiang Xu and Hongshuo Zhang
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
