@@ -9,7 +9,7 @@ repl run
 
 ## Credit
 
-This is a project of Haozhe Si(haozhes3), Jialiang Xu(jx17) and Hongshuo Zhang(hz13)
+This is a project of Haozhe Si (haozhes3), Jialiang Xu (jx17) and Hongshuo Zhang (hz13)
 
 ## License
 
