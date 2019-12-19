@@ -7,6 +7,10 @@ An adventure game for CS296 final project.
 Run in a device with clojure: 
 repl run
 
+## Credit
+
+This is a project of Haozhe Si(haozhes3), Jialiang Xu(jx17) and Hongshuo Zhang(hz13)
+
 ## License
 
 Copyright © 2019 Haozhe Si, Jialiang Xu and Hongshuo Zhang
