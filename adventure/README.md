@@ -1,14 +1,13 @@
-# adventure
-
-An adventure game for CS296 final project.
+# Adventure
+An adventure game for *CS296: Data Structure Honor Section* final project.
 
 ## Usage
-
-Run in a device with clojure: 
+Run in a device with ```clojure``` installed: 
+```
 repl run
+```
 
-## Credit
-
+## Contributor
 This is a project of Haozhe Si (haozhes3), Jialiang Xu (jx17) and Hongshuo Zhang (hz13)
 
 ## License
