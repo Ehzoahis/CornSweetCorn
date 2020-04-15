@@ -1,2 +1,2 @@
 # CS296
-Final project
+Final project of *CS296: Data Structure Honor Section*
